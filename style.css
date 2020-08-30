@@ -155,6 +155,7 @@ html{
 
 #clients img{
     height: 124px;
+    cursor: pointer;
 }
 
 
